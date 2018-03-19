@@ -24,30 +24,50 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 		<li>Template</li>
 		<li>Musterlösung</li>
 		<li>Weitere Links
-        <ul>
-			<li><a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
-			<li><a target="_blank" href="www.ibm.com/watson/how-to-build-a-chatbot/">Help: How to build a chatbot</a></li>
-		</ul>
+			<ul>
+				<li><a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
+				<li><a target="_blank" href="www.ibm.com/watson/how-to-build-a-chatbot/">Help: How to build a chatbot</a></li>
+				<li><a target="_blank" href="">Template: WCS Workspace</a></li>
+			</ul>
 		</li>
 	</ul>
+	</li>
 	<li> Kata 2 - Anbindung von WCS und Orchestration Layer
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
-		<li>Materialien</li>
+		<li>Weitere Links
+			<ul>
+				<li><a target="_blank" href="github.com/watson-developer-cloud/java-sdk/">Watson Developer Cloud / Java SDK - Implementation and  Documentation</a></li>
+				<li><a target="_blank" href="">Template: WCS Orchestration Layer</a></li>
+			</ul>
+		</li>
 	</ul>
+	</li>
 	<li> Kata 3 - Anbindung der LV 1871-API 
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
-		<li>Materialien</li>
+		<li>Weitere Links
+			<ul>
+				<li><a target="_blank" href="www.lv1871.de/lv1871_internet/sterbegeldversicherung.htm#/?versicherungssumme=9000">LV1871 Sterbegeld Link</a></li>
+				<li><a target="_blank" href="">Template: API LV1871 Anbindung</a></li>
+			</ul>
+		</li>
 	</ul>
+	</li>
 	<li> Kata 4 - Systemerweiterung: Integration des User Interface
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
-		<li>Materialien</li>
+		<li>Weitere Links
+			<ul>
+				<li><a target="_blank" href="git.ng.bluemix.net/insdach/chatbot-template">WCS Chatbot GUI</a></li>
+				<li><a target="_blank" href="">Template: WCS GUI </a></li>
+			</ul>
+		</li>
 	</ul>
+	</li>
 </ul>
 
 
