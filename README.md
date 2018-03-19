@@ -22,7 +22,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<li> Kata 1 - Erstellung des Watson Conversation Service 
 	<ul>
 		<li>Template</li>
-		<li>Musterlösung</li>
+		<li><a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/Musterl%C3%B6sungen/Musterl%C3%B6sungen.txt">Musterlösung</a></li>
 		<li>Weitere Links
 			<ul>
 				<li><a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
@@ -51,7 +51,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 		<li>Weitere Links
 			<ul>
 				<li><a target="_blank" href="www.lv1871.de/lv1871_internet/sterbegeldversicherung.htm#/?versicherungssumme=9000">LV1871 Sterbegeld Link</a></li>
-				<li><a target="_blank" href="">Template: API LV1871 Anbindung</a></li>
+				<li><a target="_blank" href="">Template: API LV1871 Connection</a></li>
 			</ul>
 		</li>
 	</ul>
@@ -62,7 +62,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 		<li>Musterlösung</li>
 		<li>Weitere Links
 			<ul>
-				<li><a target="_blank" href="git.ng.bluemix.net/insdach/chatbot-template">WCS Chatbot GUI</a></li>
+				<li><a target="_blank" href="https://git.ng.bluemix.net/insdach/chatbot-template">WCS Chatbot GUI API</a></li>
 				<li><a target="_blank" href="">Template: WCS GUI </a></li>
 			</ul>
 		</li>
