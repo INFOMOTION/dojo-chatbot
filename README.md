@@ -10,10 +10,10 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools
 
 <h2>Dokumentation</h2> 
 * <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a>
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a>
 * <a target="_blank" href="https://watson-assistant.eu-de.bluemix.net/">IBM WCS Startseite</a>   
 * <a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WCS Dokumentation</a>
-* Links zu den Projekten / Musterlösungen 
-
 
 <h2>Templates zu den einzelnen Katas</h2>
 * Kata 1 - Erstellung des Watson Conversation Service 
