@@ -23,11 +23,12 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
-		<li>Weitere Links</li>
+		<li>Weitere Links
         <ul>
 			<li><a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
 			<li><a target="_blank" href="www.ibm.com/watson/how-to-build-a-chatbot/">Help: How to build a chatbot</a></li>
 		</ul>
+		</li>
 	</ul>
 	<li> Kata 2 - Anbindung von WCS und Orchestration Layer
 	<ul>
