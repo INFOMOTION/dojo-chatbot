@@ -2,11 +2,18 @@
 
 Auf den folgenden Seiten findet ihr Informationen zu diesem Dojo sowie Tipps und Tricks. 
 
+<h2>Allgemeine Informationen</h2>
+Für diesen Workshop benötigt ihr die folgenden Materialien / Tools
+* IBM Watson Conversation Service (IBM WCS): Tool zur Erstellung der Chatbots
+* Zugang zu IBM WCS: Ihr werden eigene IBM WCS Accounts in Form von Vouchern erhalten.
+* 
+
 <h2>Dokumentation:</h2> 
 * <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
-* Links zu Watson 
-* Links zu den Projekten 
-* Workspace 
+* <a target="_blank" href="https://watson-assistant.eu-de.bluemix.net/">IBM WCS Startseite</a>   
+* <a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WCS Dokumentation</a>
+* Links zu den Projekten / Musterlösungen 
+
 
 <h2>Templates zu den einzelnen Katas:</h2>
 * Kata 1 - Erstellung des Watson Conversation Service 
