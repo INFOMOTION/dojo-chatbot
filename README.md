@@ -9,6 +9,13 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 * Java IDE zur Entwicklung und Anbindung des Orchestration Layers 
 * Katas 
 
+<h2>Ressourcen</h2> 
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a>
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a>
+* <a target="_blank" href="https://watson-assistant.eu-de.bluemix.net/">IBM WCS Startseite</a>   
+* <a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WCS Dokumentation</a>
+
 
 <h2>Katas</h2>
 <ul>
@@ -16,7 +23,11 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
-		<li>Materialien</li>
+		<li>Weitere Links</li>
+        <ul>
+			<li><a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
+			<li><a target="_blank" href="www.ibm.com/watson/how-to-build-a-chatbot/">Help: How to build a chatbot</a></li>
+		</ul>
 	</ul>
 	<li> Kata 2 - Anbindung von WCS und Orchestration Layer
 	<ul>
@@ -38,13 +49,8 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	</ul>
 </ul>
 
-<h2>Dokumentation</h2> 
-* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
-* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a>
-* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a>
-* <a target="_blank" href="https://watson-assistant.eu-de.bluemix.net/">IBM WCS Startseite</a>   
-* <a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WCS Dokumentation</a>
 
 
-Viel Spaß beim Workshop! 
+Viel Spaß beim Workshop! :)
   
+
