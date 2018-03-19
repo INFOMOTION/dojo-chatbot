@@ -1,0 +1,5 @@
+In diesem Verzeichnis findet ihr die Templates zu den folgenden Katas:
+* Kata 1 - Erstellung des Watson Conversation Service 
+* Kata 2 - Anbindung von WCS und Orchestration Layer
+* Kata 3 - Anbindung der LV 1871-API 
+* Kata 4 - Systemerweiterung
