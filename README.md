@@ -3,7 +3,7 @@
 Auf den folgenden Seiten findet ihr Informationen zu diesem Dojo sowie Tipps und Tricks. 
 
 <h2>Dokumentation:</h2> 
-* <a href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
 * Links zu Watson 
 * Links zu den Projekten 
 * Workspace 
