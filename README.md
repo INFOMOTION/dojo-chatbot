@@ -22,7 +22,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<li> Kata 1 - Erstellung des Watson Conversation Service 
 	<ul>
 		<li>Template</li>
-		<li><a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/Musterl%C3%B6sungen/Musterl%C3%B6sungen.txt">Musterlösung</a></li>
+		<li><a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/Musterl%C3%B6sungen/workspace_lv1871.json">Musterlösung</a></li>
 		<li>Weitere Links
 			<ul>
 				<li><a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
