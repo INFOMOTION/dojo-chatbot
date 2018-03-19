@@ -9,12 +9,6 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 * Java IDE zur Entwicklung und Anbindung des Orchestration Layers 
 * Katas 
 
-<h2>Dokumentation</h2> 
-* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
-* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a>
-* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a>
-* <a target="_blank" href="https://watson-assistant.eu-de.bluemix.net/">IBM WCS Startseite</a>   
-* <a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WCS Dokumentation</a>
 
 <h2>Katas</h2>
 <ul>
@@ -22,41 +16,35 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
+		<li>Materialien</li>
 	</ul>
 	<li> Kata 2 - Anbindung von WCS und Orchestration Layer
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
+		<li>Materialien</li>
 	</ul>
 	<li> Kata 3 - Anbindung der LV 1871-API 
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
+		<li>Materialien</li>
 	</ul>
 	<li> Kata 4 - Systemerweiterung: Integration des User Interface
 	<ul>
 		<li>Template</li>
 		<li>Musterlösung</li>
+		<li>Materialien</li>
 	</ul>
 </ul>
 
-/**
-* Kata 2 - Anbindung von WCS und Orchestration Layer
-* Kata 3 - Anbindung der LV 1871-API 
-* Kata 4 - Integration des User Interface
+<h2>Dokumentation</h2> 
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/WatsonJavaDojo.pptx">Präsentation</a> 
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a>
+* <a target="_blank" href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a>
+* <a target="_blank" href="https://watson-assistant.eu-de.bluemix.net/">IBM WCS Startseite</a>   
+* <a target="_blank" href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WCS Dokumentation</a>
 
 
-<h2>Templates zu den einzelnen Katas</h2>
-* Kata 1 - Erstellung des Watson Conversation Service 
-* Kata 2 - Anbindung von WCS und Orchestration Layer
-* Kata 3 - Anbindung der LV 1871-API 
-* Kata 4 - Systemerweiterung
-
-<h2>Musterlösungen zu den einzelnen Katas</h2>
-* Kata 1 - Erstellung des Watson Conversation Service 
-* Kata 2 - Anbindung von WCS und Orchestration Layer
-* Kata 3 - Anbindung der LV 1871-API 
-* Kata 4 - Systemerweiterung
-*/
 Viel Spaß beim Workshop! 
   
