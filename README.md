@@ -56,7 +56,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<li> Kata 4 - Systemerweiterung: Actions, UI und Logging
 	<ul>
 		<li><a href="Templates/java_lv1871api.zip">Template Maven Project</a></li>
-		<li>Musterlösungen:
+		<li>Musterlösungen
 			<ul>
 				<li><a href="Musterl%C3%B6sungen/dojo_solution.json">WA Workspace</a></li>
 				<li><a href="Musterl%C3%B6sungen/java_actions.zip">Maven Project</a></li>
