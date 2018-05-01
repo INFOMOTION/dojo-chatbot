@@ -1,4 +1,4 @@
-<h1>Willkommen zum Dojo der LV 1871</h1>
+<h1>Willkommen zum LV1871 Java Coding Dojo: LV1871 Java Coding DojoChatbot leichtgemacht – Sterbegeldrechner 4.0</h1>
 
 Auf den folgenden Seiten findet ihr Informationen zu diesem Dojo sowie Tipps und Tricks. 
 
