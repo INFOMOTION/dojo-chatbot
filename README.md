@@ -6,8 +6,8 @@ Auf den folgenden Seiten findet ihr Informationen zu diesem Dojo sowie Tipps und
 Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 <ul>
 		<li>Zugang zu IBM Cloud: Bitte erstellt euch Accounts unter <a href="https://www.ibm.com/cloud/">www.ibm.com/cloud</a></li>
-<li><IBM Watson Assistant (IBM WA): Tool zur Erstellung der Chatbots</li>
-<li><Java IDE zur Entwicklung und Anbindung des Orchestration Layers (z.B. <a href="https://www.eclipse.org/downloads/">Eclipse</a>)</li>
+<li>IBM Watson Assistant (IBM WA): Tool zur Erstellung der Chatbots</li>
+<li>Java IDE zur Entwicklung und Anbindung des Orchestration Layers (z.B. <a href="https://www.eclipse.org/downloads/">Eclipse</a>)</li>
 			</ul>
 
 <h2>Ressourcen</h2> 
