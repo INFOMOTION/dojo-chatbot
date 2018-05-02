@@ -1,19 +1,23 @@
-<h1>Willkommen zum LV1871 Java Coding Dojo: LV1871 Java Coding DojoChatbot leichtgemacht – Sterbegeldrechner 4.0</h1>
+<h1>Willkommen zum LV1871 Java Coding Dojo: LV1871 Java Coding Dojo Chatbot leichtgemacht – Sterbegeldrechner 4.0</h1>
 
 Auf den folgenden Seiten findet ihr Informationen zu diesem Dojo sowie Tipps und Tricks. 
 
 <h2>Allgemeine Informationen</h2>
 Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
-* Zugang zu IBM Cloud: Bitte erstellt euch Accounts unter <a href="https://www.ibm.com/cloud/">www.ibm.com/cloud/</a>
-* IBM Watson Assistant (IBM WA): Tool zur Erstellung der Chatbots
-* Java IDE zur Entwicklung und Anbindung des Orchestration Layers (z.B. <a href="https://www.eclipse.org/downloads/">Eclipse</a>)
+<ul>
+		<li>Zugang zu IBM Cloud: Bitte erstellt euch Accounts unter <a href="https://www.ibm.com/cloud/">www.ibm.com/cloud/</a></li>
+<li><IBM Watson Assistant (IBM WA): Tool zur Erstellung der Chatbots</li>
+<li><Java IDE zur Entwicklung und Anbindung des Orchestration Layers (z.B. <a href="https://www.eclipse.org/downloads/">Eclipse</a>)</li>
+			</ul>
 
 <h2>Ressourcen</h2> 
-* <a href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/ChatbotsLeichtgemacht.pdf">Präsentation</a> 
-* <a href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a>
-* <a href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a>
-* <a href="https://watson-assistant.eu-de.bluemix.net/">IBM WA Startseite</a>   
-* <a href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WA Dokumentation</a>
+<ul>
+		<li><a href="https://gitlab.infomotion.de/lv1871/chatbot/blob/master/ChatbotsLeichtgemacht.pdf">Präsentation</a></li>
+<li><a href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Templates">Templates</a></li>
+<li><a href="https://gitlab.infomotion.de/lv1871/chatbot/tree/master/Musterlösungen">Musterlösungen</a></li>
+<li><a href="https://watson-assistant.eu-de.bluemix.net/">IBM WA Startseite</a></li>
+<li><a href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WA Dokumentation</a></li>
+			</ul>
 
 
 <h2>Katas</h2>
