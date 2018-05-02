@@ -25,7 +25,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 	<li> Kata 1 - Erstellung des Watson Conversation Service 
 	<ul>
 		<li><a href="Templates/dojo_template.json">Template Workspace</a></li>
-		<li><a href="Templates/workspace_lv1871.json">Musterlösung Workspace</a></li>
+		<li><a href="Musterlösungen/dojo_solution.json">Musterlösung Workspace</a></li>
 		<li>Weitere Links
 			<ul>
 				<li><a href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">Help: Workspace Configuration</a></li>
@@ -62,8 +62,8 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 		<li><a href="Templates/java_lv1871api.zip">Template Maven Project</a></li>
 		<li>Musterlösungen
 			<ul>
-				<li><a href="Musterl%C3%B6sungen/dojo_solution.json">WA Workspace</a></li>
-				<li><a href="Musterl%C3%B6sungen/java_actions.zip">Maven Project</a></li>
+				<li><a href="Musterlösungen/dojo_solution.json">WA Workspace</a></li>
+				<li><a href="Musterlösungen/java_actions.zip">Maven Project</a></li>
 			</ul>
 			</li>
 		<li>Weitere Links
