@@ -12,9 +12,9 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 
 <h2>Ressourcen</h2> 
 <ul>
-		<li><a href="tree/master/ChatbotsLeichtgemacht.pdf">Präsentation</a></li>
-<li><a href="tree/master/Templates">Templates</a></li>
-<li><a href="tree/master/Musterlösungen">Musterlösungen</a></li>
+		<li><a href="ChatbotsLeichtgemacht.pdf">Präsentation</a></li>
+<li><a href="Templates">Templates</a></li>
+<li><a href="Musterlösungen">Musterlösungen</a></li>
 <li><a href="https://watson-assistant.eu-de.bluemix.net/">IBM WA Startseite</a></li>
 <li><a href="https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-watson-assistant-workspace">IBM WA Dokumentation</a></li>
 			</ul>
