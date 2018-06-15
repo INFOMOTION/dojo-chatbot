@@ -68,7 +68,7 @@ Für diesen Workshop benötigt ihr die folgenden Materialien / Tools:
 			</li>
 		<li>Weitere Links
 			<ul>
-				<li><a href="https://git.ng.bluemix.net/insdach/chatbot-template">WA Chatbot GUI API</a></li>
+				<li><a href="https://watson-assistant-simple.ng.bluemix.net">WA Chatbot GUI API</a></li>
 			</ul>
 		</li>
 	</ul>
